@@ -81,21 +81,4 @@ public class Battle {
         return retVal;
     }
 
-    public static int enemyAction(Enemy enemy) {
-
-        //for now
-//        float roll = Game.roll();
-//        if (roll > .9f) {
-//            System.out.println("Enemy critical hit");
-//            return 25;
-//        } else if (roll < .3f) {
-//            System.out.println("Enemy attacks");
-//            return 10;
-//        }
-//        System.out.println("Enemy misses");
-
-
-
-        return 0;
-    }
 }
